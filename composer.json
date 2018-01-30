@@ -1,0 +1,14 @@
+{
+    "name": "edudobay/docker-example-php-slim",
+    "description": "example application bootstrap for use with Docker",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Eduardo Dobay",
+            "email": "edudobay@gmail.com"
+        }
+    ]
+}
